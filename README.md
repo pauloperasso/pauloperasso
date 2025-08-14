@@ -52,9 +52,6 @@
   <img align="left" alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauloperasso&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
 </p>
 
-<br>
-<br>✨ Fique à vontade para explorar meus repositórios e contribuir com projetos!  
-
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
 
 
