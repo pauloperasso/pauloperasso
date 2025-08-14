@@ -18,6 +18,14 @@
         <img alt="Seguidores" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/pauloperasso?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" />
     </a>
 </p>
+<p align="">
+    <a href="mailto:paulo.vrperasso@mauajr.com">
+        <img alt="E-mail" title="Me envie um e-mail" src="https://custom-icon-badges.demolab.com/badge/-Email-red?style=for-the-badge&logo=mail&logoColor=white" />
+    </a>
+    <a href="https://linkedin.com/in/pauloperasso">
+        <img alt="LinkedIn" title="Meu LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+</p>
 
 ---
 
@@ -46,22 +54,11 @@
 
 ---
 
-### 📫 Contato
-
-<p align="left">
-    <a href="mailto:paulo.vrperasso@mauajr.com">
-        <img alt="E-mail" title="Me envie um e-mail" src="https://custom-icon-badges.demolab.com/badge/-Email-red?style=for-the-badge&logo=mail&logoColor=white" />
-    </a>
-    <a href="https://linkedin.com/in/pauloperasso">
-        <img alt="LinkedIn" title="Meu LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-</p>
-
----
-
 ⭐️ **Desenvolvido por Paulo Perasso**  
 ✨ Fique à vontade para explorar meus repositórios e contribuir com projetos!  
 
 ---
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
+
+
