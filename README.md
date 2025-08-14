@@ -54,8 +54,8 @@
 
 ---
 
-⭐️ **Desenvolvido por Paulo Perasso**  
-✨ Fique à vontade para explorar meus repositórios e contribuir com projetos!  
+<br>⭐️ **Desenvolvido por Paulo Perasso**  
+<br>✨ Fique à vontade para explorar meus repositórios e contribuir com projetos!  
 
 ---
 
