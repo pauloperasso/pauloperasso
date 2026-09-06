@@ -6,7 +6,7 @@
 
 ## 📝 Sobre mim
 
-🎓 Tenho 18 anos, sou natural de **Santo André - SP** e atualmente curso **Ciência da Computação** no **Instituto Mauá de Tecnologia**.  
+🎓 Tenho 20 anos, sou natural de **Santo André - SP** e atualmente curso **Ciência da Computação** no **Instituto Mauá de Tecnologia**.  
 💼 Sou **Coordenador** na **Mauá Júnior**, no núcleo de Tecnologia e Dados.    
 📊 Busco evoluir constantemente minhas habilidades em **desenvolvimento** e **análise de dados**.
 
